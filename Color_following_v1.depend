@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1374409913 source:c:\users\lakshadeep\desktop\color_following_v1\main.cpp
+	"cv.h"
+	"highgui.h"
+	"math.h"
+
